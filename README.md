@@ -1,2 +1,2 @@
-# PythonProjectdemo_Django_foodsales
+# Python_Project_Demo_Django_foodsales
 Django Food sales project
